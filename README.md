@@ -11,6 +11,8 @@ This module provides the functionality to save files in the Merchant Portal. The
 >
 > ❗ **Do not use in production unless you're prepared to handle frequent changes.**
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
